@@ -1,0 +1,30 @@
+{
+  "name": "good-constants",
+  "version": "1.0.0",
+  "description": "Utility library designed to centralize and standardize commonly used constants, enumerations (enums), and other static values across your projects. This package ensures consistency and reduces redundancy, making it easier to manage and update these values from a single source of truth.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ballyalley-o/good-constants.git"
+  },
+  "keywords": [
+    "const",
+    "constants",
+    "goodinc"
+  ],
+  "author": "goode inc <bgoodies.dev@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ballyalley-o/good-constants/issues"
+  },
+  "homepage": "https://github.com/ballyalley-o/good-constants#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "typescript": "^5.5.3"
+  }
+}

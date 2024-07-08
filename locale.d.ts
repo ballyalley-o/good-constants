@@ -1,0 +1,17 @@
+enum LOCALE {
+  EN = 'en',
+  ZH = 'zh',
+  JA = 'ja',
+  KO = 'ko',
+  FR = 'fr',
+  DE = 'de',
+  ES = 'es',
+  IT = 'it',
+  PT = 'pt',
+  RU = 'ru',
+  AR = 'ar',
+  TR = 'tr',
+  VI = 'vi',
+  CN = 'cn',
+  IN = 'in',
+}
