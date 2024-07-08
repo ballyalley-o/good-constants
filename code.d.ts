@@ -1,4 +1,4 @@
-declare enum Code {
+declare enum CODE {
   // @information
   CONTINUE = 100,
   SWITCHING_PROTOCOLS = 101,
