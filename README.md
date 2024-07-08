@@ -8,9 +8,9 @@
 </div>
 </html>
 
-# 📦 Good Constants
+# 📦 good-constants
 
-[![npm version](https://badge.fury.io/js/good-logs.svg)](https://badge.fury.io/js/good-logs)
+[![npm version](https://badge.fury.io/js/good-constants.svg)](https://badge.fury.io/js/good-constants)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <br/>
